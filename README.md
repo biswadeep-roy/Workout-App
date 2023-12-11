@@ -61,20 +61,22 @@ To start the development server, run:
 ``
 npm start
 ``
-
+<br>
 Scan the QR code with the Expo Go app on your mobile device or use an emulator or you may also use android emulators in your windows laptop or on your mac.
 
-#Non-Expo Users (APK)
+###Non-Expo Users (APK)
+<br>
 Install the provided APK file on your Android device.
 Open the app and start exploring your fitness journey.
 
-##Tech Stack
+###Tech Stack
+<br>
 React Native
 Expo (optional, for Expo users)
 @react-navigation for navigation
 @react-native-async-storage/async-storage for data storage
 @react-hook-form for form handling
 And Others
-
+<br>
 License
 This project is licensed under the MIT License.
