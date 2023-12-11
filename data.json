@@ -1,0 +1,106 @@
+[
+    {
+      "slug": "abs-workout-simple-12321312",
+      "name": "Abs Workout Simple!",
+      "duration": 345,
+      "difficulty": "easy",
+      "sequence": [
+        {
+          "slug": "pushups-213213712",
+          "name": "Pushups",
+          "type": "exercise",
+          "reps": 15,
+          "duration": 60
+        },
+        {
+          "slug": "break-12313123",
+          "name": "Break",
+          "type": "break",
+          "duration": 15
+        },
+        {
+          "slug": "lower-back-stretch-23123421",
+          "name": "Lower back stretch",
+          "type": "stretch",
+          "duration": 170
+        },
+        {
+          "slug": "pull-up-12308277",
+          "name": "Pull Up",
+          "type": "exercise",
+          "reps": 10,
+          "duration": 60
+        },
+        {
+          "slug": "break-123213798",
+          "name": "Breath",
+          "type": "break",
+          "duration": 30
+        },
+        {
+          "slug": "squats-971236798",
+          "name": "Squats",
+          "type": "exercise",
+          "reps": 30,
+          "duration": 60
+        }
+      ]
+    },
+    {
+      "slug": "easy-arm-workout-12317278",
+      "name": "Easy Arm Workout",
+      "duration": 240,
+      "difficulty": "medium",
+      "sequence": [
+        {
+          "slug": "pushups-4876812",
+          "name": "Pushups",
+          "type": "exercise",
+          "reps": 15,
+          "duration": 60
+        },
+        {
+          "slug": "lower-back-stretch-12478712",
+          "name": "Lower back stretch",
+          "type": "stretch",
+          "duration": 120
+        },
+        {
+          "slug": "pull-ups-123214221",
+          "name": "Pull Ups",
+          "type": "exercise",
+          "reps": 10,
+          "duration": 60
+        }
+      ]
+    },
+    {
+      "slug": "full-body-workout-98765432",
+      "name": "Full Body Workout",
+      "duration": 420,
+      "difficulty": "hard",
+      "sequence": [
+        {
+          "slug": "jumping-jacks-34567890",
+          "name": "Jumping Jacks",
+          "type": "exercise",
+          "reps": 20,
+          "duration": 60
+        },
+        {
+          "slug": "plank-09876543",
+          "name": "Plank",
+          "type": "exercise",
+          "duration": 180
+        },
+        {
+          "slug": "lunges-45678901",
+          "name": "Lunges",
+          "type": "exercise",
+          "reps": 25,
+          "duration": 60
+        }
+      ]
+    }
+  ]
+  
